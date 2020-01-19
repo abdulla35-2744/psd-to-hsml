@@ -1,0 +1,369 @@
+*{
+	margin: 0px;
+	padding:0px;
+}
+
+.container{
+	width: 1140px;
+	margin: 0 auto;
+}
+
+body{
+	font-family: 'Roboto', sans-serif;
+
+}
+
+header{
+	background: #F6F9F9;
+    padding: 0px 30px;
+}
+
+
+}
+.logo{
+
+}
+
+.logo img{
+
+}
+.bannar{
+
+	background: url(../img/bannar.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+
+
+}
+.bannar-main{
+
+padding-top: 210px;
+
+padding-bottom: 80px;
+
+width: 60%;
+
+margin: 0 auto;
+
+text-align: center;
+}
+.bannar-main h2{
+
+font-size: 120px;
+
+color: white;
+}
+
+.bannar-main span{
+
+border-bottom: 2px solid #189FF2;
+
+display: block;
+
+width: 80%;
+
+margin: 10px auto;
+}
+
+.bannar-main p{
+
+color: white;
+
+margin-bottom: 17px;
+}
+
+.btn{
+
+background: transparent;
+
+padding: 7px 19px;
+
+border: 1px solid #15a4f;
+
+border: 1px solid #15a4f;
+
+border: 1px solid #268CCB;
+
+color: white;
+
+font-size: 16px;
+}
+
+.icon{
+
+}
+.fa.fa-chevron-down{
+	color: white;
+    margin-top: 100px;
+}
+
+
+
+.design{
+	width: 100%;
+	float: left;
+}
+
+.design-content{
+	width: 95%;
+	margin: 0 auto;
+	text-align: center;
+	padding-top: 80px;
+    padding-bottom: 110px;
+}
+.design-content h2{
+	font-size: 40px;
+	margin-bottom: 35px;
+}
+.design-content p{
+	font-size: 20px;
+	color: #999999;
+}
+
+
+
+.feature{
+	width: 100%;
+	float: left;
+	background: #fff;
+
+}
+.feature-main{
+	width: 100%;
+	margin: 0 auto;
+}
+.feature-one{
+	width: 24.56%;
+	float: left;
+	text-align: center;
+	padding: 70px 50px;
+}
+.feature-one h2{
+	font-size: 22px;
+	padding-top: 35px;
+	padding-bottom: 30px;
+
+}
+.feature-one p{
+	font-size: 15px;
+	color: #999999;
+
+}
+.fa.fa-mobile{
+	font-size: 70px;
+	color: #fff;
+	padding: 25px 43px;
+	background: #5fc3ff;
+}
+
+
+.fa.fa-paper-plane{
+	font-size: 70px;
+	color: #fff;
+	padding: 25px 25px;
+	background: #5fc3ff;
+}
+
+
+.fa.fa-bullhorn{
+	font-size: 70px;
+	color: #fff;
+	padding: 25px 30px;
+	background: #5fc3ff;
+}
+
+
+
+.gallary{
+	width: 100%;
+	float: left;
+}
+
+.gallary-container{
+	width: 100%;
+	float: left;
+	padding-top: 80px;
+	padding-bottom: 80px;
+}
+.gallary-title{
+	width: 70%;
+	margin: 0 auto;
+	text-align: center;
+	
+}
+
+.gallary-title h2{
+	font-size: 41px;
+}
+
+.gallary-title p{
+	color: #999999;
+	font-size: 15px;
+	padding-bottom: 65px;
+	padding-top: 18px;
+}
+
+.gallary-content{
+	width: 100%;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.gallary-one{
+	width: 30.70175438596491%;
+	float:left;
+	padding: 15px;
+
+}
+
+.gallary-one img{
+	width: 100%;
+}
+
+
+.stay{
+	width: 100%;
+	float: left;
+	background: url(../img/bg.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+
+.stay-content{
+	width: 60%;
+	margin: 0 auto;
+	text-align: center;
+	padding-top: 80px;
+	padding-bottom: 150px;
+}
+
+.stay-title h2{
+	font-size: 41px;
+	
+}
+
+.stay-title p{
+	font-size: 14px;
+	color: #999999;
+	padding: 20px 0 50px 0;
+}
+
+.stay-form{
+
+}
+
+.form-ctrl{
+	width: 90%;
+	padding: 25px 20px;
+	font-size: 16px;
+	color: #fff;
+	background: transparent;
+	border-radius: 4px;
+	margin-bottom: 20px;
+	border:1px solid #999999;
+
+}
+.text-ctrl{
+	width: 90%;
+	height: 80px;
+	padding: 20px 20px;
+	font-size: 16px;
+	color: #fff;
+	background: transparent;
+	border-radius: 4px;
+	margin-bottom: 20px;
+	border:1px solid #999999;
+}
+
+.form-footer{
+	width: 95%;
+	margin: 0 auto;
+	text-align: left;
+}
+.form-footer-left{
+	width: 50%;
+	float: left;
+	color: #fff;
+}
+
+.checkbox{
+	margin-top: 15px;
+	margin-right:10px;
+}
+
+.form-footer-right{
+	width: 50%;
+	float: left;
+	text-align: right;
+}
+
+.button{
+	color: #fff;
+	font-size: 18px;
+	background: transparent;
+	border: 1px solid #15a4fa;
+	padding: 15px 50px;
+}
+
+footer{
+	width: 100%;
+	float: left;
+}
+
+.copyright{
+	width: 75%;
+	float: left;
+}
+
+.footer-content{
+	width: 100%;
+	float: left;
+	padding: 30px 0px;
+}
+
+.social-btn{
+	width: 25%;
+	float: left;
+	text-align: right;
+}
+
+
+.social-btn ul{
+	list-style: none;
+}
+
+.social-btn ul li{
+	display: inline-block;
+	margin: 0px 2px;
+	font-size: 18px;
+}
+
+.social-btn ul li a{
+	text-decoration: none;
+
+}
+
+.fa.fa-facebook{
+	background: #15a4fa;
+	color: #fff;
+	padding: 8px 12px;
+}
+
+.fa.fa-twitter{
+	background: #15a4fa;
+	color: #fff;
+	padding: 8px 11px;
+}
+
+.fa.fa-linkedin{
+	background: #15a4fa;
+	color: #fff;
+	padding: 8px 11px;
+}
+
+.fa.fa-google-plus{
+	background: #15a4fa;
+	color: #fff;
+	padding: 8px 10px;
+}
